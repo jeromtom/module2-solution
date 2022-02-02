@@ -17,7 +17,7 @@
     width:25%
 }
 
-@media (min-width:992px)
+@media (max-width:767px)
 {col-sg-12
     {float: left;
     border: 1px solid blue}
